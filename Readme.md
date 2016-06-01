@@ -11,7 +11,7 @@ Submitted by: **Tran Xuan Vien**
 
 Time spent: **5** hours spent in total
 
-URL: **http://radiant-bayou-48040.herokuapp.com/articles**
+URL: **http://immense-chamber-58403.herokuapp.com/articles**
 
 ## User Stories
 
@@ -23,13 +23,13 @@ The following **required** functionality is complete:
 * [X] User can edit an existing post.
 * [X] There is one post that introduces the App Creator with name, picture.
 * [X] User can delete stories, with an alert that asks the user to confirm.
-* [ ] User see a search form on the Posts page.
-* [ ] User can submit a search term to find all posts bywith titles containing the search term.
+* [X] User see a search form on the Posts page.
+* [X] User can submit a search term to find all posts bywith titles containing the search term.
 
 The following **optional** features are implemented:
-* [ ] There is a "navbar" that is responsive to window size similar to http://v4-alpha.getbootstrap.com/examples/navbar/. 
+* [X] There is a "navbar" that is responsive to window size similar to http://v4-alpha.getbootstrap.com/examples/navbar/. 
 * [ ] User can see how many views a post has. 
-* [ ] User can leave a comment on a post.
+* [X] User can leave a comment on a post.
 * [ ] User can add "tags" to a post, and filter posts by tag. 
 
 > HINT: if you are unsure how to implement the Search feature, you can Google how to implement a simple search form. For example, one of the sites you will find is [this](http://www.jorgecoca.com/buils-search-form-ruby-rails/)
@@ -52,7 +52,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+making a ruby web on windows is harder than linux or Mac
 
 ## License
 
