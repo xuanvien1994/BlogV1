@@ -21,7 +21,7 @@ The following **required** functionality is complete:
 
 * [X] User can create a new post, formatted using the Markdown language.
 * [X] User can edit an existing post.
-* [X] There is one post that introduces the App Creator with name, picture.
+* [ ] There is one post that introduces the App Creator with name, picture.
 * [X] User can delete stories, with an alert that asks the user to confirm.
 * [X] User see a search form on the Posts page.
 * [X] User can submit a search term to find all posts bywith titles containing the search term.
@@ -46,7 +46,7 @@ Here's a walkthrough of implemented user stories:
 > `![Video Walkthrough](walkthrough.gif)` 
 > 
 
-![Video Walkthrough](/path/to/your/gif/file)
+![Video Walkthrough](BlogV1/app/assets/images/Intro4.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
