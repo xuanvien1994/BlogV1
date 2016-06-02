@@ -9,7 +9,7 @@
 
 Submitted by: **Tran Xuan Vien**
 
-Time spent: **5** hours spent in total
+Time spent: **12** hours spent in total
 
 URL: **http://immense-chamber-58403.herokuapp.com/articles**
 
@@ -46,7 +46,7 @@ Here's a walkthrough of implemented user stories:
 > `![Video Walkthrough](walkthrough.gif)` 
 > 
 
-![Video Walkthrough](BlogV1/app/assets/images/Intro4.gif)
+![Video Walkthrough](app/assets/images/Intro4.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
